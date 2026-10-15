@@ -2,8 +2,8 @@ Hi there, I'm Arpan 👋
 
 IT Enthusiast | Exploring Different Domains of Information Technology
 
-I'm an IT enthusiast interested in exploring various domains across Information Technology. I'm currently learning and improving my technical skills in web development, Android development, programming, databases, and software testing.
 
+I'm an IT enthusiast interested in exploring various domains across Information Technology. I'm currently learning and improving my technical skills in web development, Android development, programming, databases, and software testing.
 
 
 🛠️ Technologies & Skills
@@ -14,6 +14,7 @@ I'm an IT enthusiast interested in exploring various domains across Information 
 - Android Development: Android Studio, Java
 - Software Testing: Fundamentals and theoretical concepts
 - Development Tools: Visual Studio, Visual Studio Code
+  
 
 🚀 Featured Projects
 
@@ -29,10 +30,13 @@ https://github.com/arpanparmar-codes/studenttaskplanner
 
 🎯 Goals
 
+
+
 - Explore different domains across Information Technology
 - Improve my technical and programming skills
 - Build practical web and mobile applications
 - Gain hands-on experience with new technologies
+
 
 
 
