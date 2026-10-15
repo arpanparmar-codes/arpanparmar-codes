@@ -15,17 +15,16 @@ I'm an IT enthusiast interested in exploring various domains across Information 
 - Software Testing: Fundamentals and theoretical concepts
 - Development Tools: Visual Studio, Visual Studio Code
 
-
-
 🚀 Featured Projects
 
-[MobileShoppingCatalog](https://github.com/arpanparmar-codes/MobileShoppingCatalog)
+Mobile shopping catalog - web application using ASP.NET
+https://github.com/arpanparmar-codes/MobileShoppingCatalog
 
-A web-based mobile shopping catalog built using ASP.NET Web Forms, C#, and Microsoft SQL Server.
 
-More projects coming soon!
+Student task planner - android application using java
+https://github.com/arpanparmar-codes/studenttaskplanner
 
----
+
 
 🎯 Goals
 
@@ -44,6 +43,6 @@ I'm currently looking for an **IT internship** where I can apply my existing kno
 
 📫 Connect With Me
 
-- **GitHub:** [@arpanparmar-codes](https://github.com/arpanparmar-codes)
-- **Email:** [arpanparmarap0@gmail.com](mailto:arpanparmarap0@gmail.com)
+- GitHub: [@arpanparmar-codes](https://github.com/arpanparmar-codes)
+- Email:  [arpanparmarap0@gmail.com](mailto:arpanparmarap0@gmail.com)
 
