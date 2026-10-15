@@ -15,6 +15,7 @@ I'm an IT enthusiast interested in exploring various domains across Information 
 - Software Testing: Fundamentals and theoretical concepts
 - Development Tools: Visual Studio, Visual Studio Code
   
+  
 
 🚀 Featured Projects
 
@@ -32,10 +33,12 @@ https://github.com/arpanparmar-codes/studenttaskplanner
 
 
 
+
 - Explore different domains across Information Technology
 - Improve my technical and programming skills
 - Build practical web and mobile applications
 - Gain hands-on experience with new technologies
+
 
 
 
