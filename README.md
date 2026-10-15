@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi there, I'm Arpan 👋
 
-<!--
-**arpanparmar-codes/arpanparmar-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Enthusiast | Exploring Different Domains of Information Technology
 
-Here are some ideas to get you started:
+I'm an IT enthusiast interested in exploring various domains across Information Technology. I'm currently learning and improving my technical skills in web development, Android development, programming, databases, and software testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🛠️ Technologies & Skills
+
+- Programming Languages: C#, Java
+- Web Development: ASP.NET Web Forms, HTML, CSS
+- Database Management: Microsoft SQL Server
+- Android Development: Android Studio, Java
+- Software Testing: Fundamentals and theoretical concepts
+- Development Tools: Visual Studio, Visual Studio Code
+
+
+
+🚀 Featured Projects
+
+[MobileShoppingCatalog](https://github.com/arpanparmar-codes/MobileShoppingCatalog)
+
+A web-based mobile shopping catalog built using ASP.NET Web Forms, C#, and Microsoft SQL Server.
+
+More projects coming soon!
+
+---
+
+🎯 Goals
+
+- Explore different domains across Information Technology
+- Improve my technical and programming skills
+- Build practical web and mobile applications
+- Gain hands-on experience with new technologies
+
+
+
+I'm currently looking for an **IT internship** where I can apply my existing knowledge, gain practical experience, learn from experienced professionals, and develop my technical skills.
+
+I'm open to exploring opportunities across different IT domains.
+
+
+
+📫 Connect With Me
+
+- **GitHub:** [@arpanparmar-codes](https://github.com/arpanparmar-codes)
+- **Email:** [arpanparmarap0@gmail.com](mailto:arpanparmarap0@gmail.com)
+
