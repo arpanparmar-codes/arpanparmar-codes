@@ -38,7 +38,7 @@ More projects coming soon!
 
 I'm currently looking for an **IT internship** where I can apply my existing knowledge, gain practical experience, learn from experienced professionals, and develop my technical skills.
 
-I'm open to exploring opportunities across different IT domains.
+
 
 
 
