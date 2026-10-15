@@ -26,12 +26,14 @@ https://github.com/arpanparmar-codes/studenttaskplanner
 
 
 
+
 🎯 Goals
 
 - Explore different domains across Information Technology
 - Improve my technical and programming skills
 - Build practical web and mobile applications
 - Gain hands-on experience with new technologies
+
 
 
 
